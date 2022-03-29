@@ -1,0 +1,13 @@
+.container {
+  width: 500px;
+}
+li {
+  border: 3px solid rgb(160, 148, 231);
+  text-transform: capitalize;
+  &:hover {
+    background: rgb(160, 148, 231);
+    color: white;
+    transition: 0.3s;
+    cursor: pointer;
+  }
+}

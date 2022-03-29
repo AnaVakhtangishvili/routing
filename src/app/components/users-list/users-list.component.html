@@ -1,0 +1,12 @@
+<div class="container my-5">
+  <ul class="list-group">
+    <li
+      class="list-group-item py-3 text-capitalize"
+      aria-current="true"
+      *ngFor="let user of usersList"
+      (click)="goToDetails(user)"
+    >
+      {{ user.username }}
+    </li>
+  </ul>
+</div>

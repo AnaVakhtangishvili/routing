@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "username": "tsl",
+    "firstName": "Nikola",
+    "lastName": "tesla",
+    "aboutMe": " inventor"
+  },
+  {
+    "id": 2,
+    "username": "Zinovyevna",
+    "firstName": "Ayn ",
+    "lastName": "rand",
+    "aboutMe": "writer"
+  },
+  {
+    "id": 3,
+    "username": "stalkermaker",
+    "firstName": "Andrei ",
+    "lastName": "Tarkovsky",
+    "aboutMe": "director"
+  },
+  {
+    "id": 4,
+    "username": "Wolfie",
+    "firstName": "Wolfgang Amadeus ",
+    "lastName": "Mozart",
+    "aboutMe": "composer"
+  }
+]
